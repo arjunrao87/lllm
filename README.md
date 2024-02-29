@@ -19,4 +19,4 @@ A series of experiments with local LLMs
 
 - [ ] Replicate [this](https://www.anaconda.com/blog/how-to-build-ai-chatbots-with-mistral-and-llama2)
 
-## Exp4 (Train Mistral on your own data)
+## Exp4 (Train Mistral on your own data - finetuning)
