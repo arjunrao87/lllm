@@ -11,14 +11,12 @@ A series of experiments with local LLMs
 - [x] Run custom prompts with llama 2
 - [x] Run API calls against llama/mistral
 
+## Exp (Get Twinny to work in VSCode)
+
+- [x] Done with caveats
+
 ## Exp (Using Ollama for a Chat UI)
 
 - [x] Create chat UI similar to [this](https://www.youtube.com/watch?v=n9AMtXLveMs)
 
-## Exp (Use langchain to build something)
-
-- [ ] Replicate [this](https://www.anaconda.com/blog/how-to-build-ai-chatbots-with-mistral-and-llama2)
-
-## Exp (Train Mistral on your own data - finetuning)
-
-## Exp (Get Twinny to work in VSCode)
+## Exp (Train Mistral on your own data - finetuning or use RAG)
