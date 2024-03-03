@@ -10,3 +10,9 @@ This is divided into 2 parts
 ```sh
 chainlit run main.py
 ```
+
+# Results
+
+Running `main.py` gets you
+
+![output](assets/demo.png)
