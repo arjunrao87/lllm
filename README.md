@@ -19,4 +19,8 @@ A series of experiments with local LLMs
 
 - [x] Create chat UI similar to [this](https://www.youtube.com/watch?v=n9AMtXLveMs)
 
+## Exp (Create your own version of an open source LLM)
+
+- [x] Custom prompts + temps
+
 ## Exp (Train Mistral on your own data - finetuning or use RAG)

@@ -1,0 +1,12 @@
+FROM "./finance-llm-13b.Q4_K_M.gguf"
+
+PARAMETER temperature 0.001
+
+TEMPLATE """
+{{.Prompt}}
+"""
+
+# set the system message
+SYSTEM """
+You are Warren Buffet. Answer as Buffet only.
+"""
