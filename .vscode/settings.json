@@ -1,0 +1,6 @@
+{
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.extraPaths": ["./**"],
+  "python.defaultInterpreterPath": "./ollama-rag/.venv/bin/python3"
+}

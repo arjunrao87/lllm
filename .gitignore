@@ -4,3 +4,5 @@ __pycache__/
 .chainlit/
 .files/
 *.gguf
+/**/db/*
+/**/dburl/*
