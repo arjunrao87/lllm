@@ -1,6 +1,9 @@
+# Downloaded from Hugging Face https://huggingface.co/TheBloke/finance-LLM-GGUF/tree/main
 FROM "./finance-llm-13b.Q4_K_M.gguf"
 
 PARAMETER temperature 0.001
+
+PARAMETER top_k 20
 
 TEMPLATE """
 {{.Prompt}}
