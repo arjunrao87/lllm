@@ -2,5 +2,5 @@
   "python.analysis.autoImportCompletions": true,
   "python.analysis.typeCheckingMode": "basic",
   "python.analysis.extraPaths": ["./**"],
-  "python.defaultInterpreterPath": "./ollama-rag/.venv/bin/python3"
+  "python.defaultInterpreterPath": "./ollama-llamaparse/.venv/bin/python3"
 }
