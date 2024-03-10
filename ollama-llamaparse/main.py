@@ -1,11 +1,12 @@
+import chromadb
+import nest_asyncio
 import os
+
 from dotenv import load_dotenv
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import StorageContext
-import nest_asyncio
 from llama_parse import LlamaParse
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
-import chromadb
 from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.llms.ollama import Ollama
 from llama_index.core import Settings
